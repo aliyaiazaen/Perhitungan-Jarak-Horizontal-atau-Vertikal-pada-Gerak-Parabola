@@ -1,0 +1,1 @@
+# Perhitungan-Jarak-Horizontal-atau-Vertikal-pada-Gerak-Parabola
